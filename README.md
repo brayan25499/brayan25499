@@ -6,6 +6,8 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el SENA, enfo
 
 Me gusta aprender mediante proyectos reales, resolver problemas y entender cómo funcionan las aplicaciones desde el frontend hasta el backend.
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=brayan25499&theme=tokyonight&size=compact)
+
 ---
 
 ## 🚀 Sobre mí
@@ -88,6 +90,7 @@ Me gusta aprender mediante proyectos reales, resolver problemas y entender cómo
 * Supabase
 
 ---
+![Top Languages](https://ghstats.dev/api/langs?username=brayan25499&theme=tokyonight)
 
 ## ⭐ Proyecto principal
 
@@ -160,3 +163,4 @@ Si quieres conocer más sobre mis proyectos o colaborar conmigo, puedes encontra
 ---
 
 ⭐ *Siempre aprendiendo, construyendo y mejorando.*
+
