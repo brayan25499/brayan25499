@@ -1,4 +1,6 @@
-# 👋 Hola, soy Brayan Valencia
+<p>
+  <img src="https://github.com/brayan25499/brayan25499/blob/main/git2.jpg" />
+</p>
 
 💻 **Desarrollador de Software en formación | SENA ADSO**
 
